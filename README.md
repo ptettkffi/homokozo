@@ -7,3 +7,8 @@ Ez egy readme file. Markdown-ban van írva.
 - Első elem
 - Második elem
 - Harmadik elem
+
+Ez egy tábla:
+Én egy|oszlop|vagyok
+---|---|---
+ez egy|csúnyán megszerkesztett|tábla
