@@ -9,6 +9,6 @@ Ez egy readme file. Markdown-ban van írva.
 - Harmadik elem
 
 Ez egy tábla:
-Én egy|oszlop|vagyok
----|---|---
-ez egy|csúnyán megszerkesztett|tábla
+Én egy | oszlop | vagyok
+--- | --- | --- 
+ez egy | csúnyán megszerkesztett | tábla
