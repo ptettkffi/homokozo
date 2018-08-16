@@ -13,3 +13,4 @@ Ez egy tábla:
 Én egy | oszlop | vagyok
 --- | --- | --- 
 ez egy | csúnyán megszerkesztett | tábla
+ez a sor | remélem nem | lesz itt sokáig
