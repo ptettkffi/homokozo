@@ -2,5 +2,4 @@ Ez egy Ãºj fÃ¡jl a sajÃ¡t branchemben.
 Ez egy Ãºj vÃ¡ltozÃ¡s a branchben.
 Ez egy ï¿½j fï¿½jl a sajï¿½t branchemben.
 Ez egy ï¿½j fï¿½jl a sajï¿½t branchemben.
-Ez egy új változás a branchben.
-Ez megint egy változás.
+
