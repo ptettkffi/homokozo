@@ -1,4 +1,1 @@
-Ez egy �j f�jl a saj�t branchemben.
-Ez egy �j f�jl a saj�t branchemben.
-
-
+Ez egy új fájl a saját branchemben.
