@@ -1,6 +1,7 @@
 tesztteszt
 ez már igazi garázdaság!
 bátorság
-blalbla
-egymegegy az kettő
+egymegegy
+változás
+
 
