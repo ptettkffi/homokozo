@@ -1,3 +1,2 @@
-Ez egy �j f�jl a saj�t branchemben.
-Ez egy �j f�jl a saj�t branchemben.
-Ez egy �j v�ltoz�s a branchben.
+Ez egy új fájl a saját branchemben.
+Ez egy új változás a branchben.
