@@ -2,6 +2,3 @@ tesztteszt
 bátorság
 blalbla
 ismétlés
-első
-negyedik
-ötödik
