@@ -1,5 +1,5 @@
 Ez egy ï¿½j fï¿½jl a sajï¿½t branchemben.
 valami
-Ez egy új fájl a saját branchemben.
+Ez egy ï¿½j fï¿½jl a sajï¿½t branchemben.
 valami
 akarmi
