@@ -1,6 +1,4 @@
 Ez egy ï¿½j fï¿½jl a sajï¿½t branchemben.
 Ez egy ï¿½j fï¿½jl a sajï¿½t branchemben.
-valami
-akarmi
-Ez egy új fájl a saját branchemben.
+
 
